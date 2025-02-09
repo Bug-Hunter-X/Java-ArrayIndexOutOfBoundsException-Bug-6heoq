@@ -1,0 +1,1 @@
+This repository contains a simple Java program that demonstrates an uncommon yet important error: the ArrayIndexOutOfBoundsException. The `UncommonBug.java` file contains the erroneous code, while `UncommonBugSolution.java` provides the corrected version.  This example highlights the importance of careful array indexing in Java to prevent runtime exceptions.
